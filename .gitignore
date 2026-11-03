@@ -1,0 +1,7 @@
+*.o
+terminator
+tests/run_tests
+tmp/
+*.dSYM/
+core
+/VIVA_GUIDE.md

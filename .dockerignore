@@ -1,0 +1,9 @@
+.git
+.github
+*.o
+src/*.o
+include/*.o
+tests/*.o
+tests/run_tests
+terminator
+docs
